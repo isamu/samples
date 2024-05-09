@@ -1,3 +1,4 @@
+// install openai and dotenv packages and set .env OPENAI_API_KEY=sk-xxx
 import "dotenv/config";
 import OpenAI from "openai";
 
